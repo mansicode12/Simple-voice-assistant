@@ -14,22 +14,18 @@ A basic voice assistant project that recognizes your voice commands and helps yo
    ```bash
    git clone https://github.com/mansicode12/Simple-Voice-Assistant.git
 2. Go into the project folder:
-     bash
-     Copy
-     Edit
-   cd Simple-Voice-Assistant
+
+```bash
+cd Simple-Voice-Assistant
+```
 3. Install the required Python packages:
-     bash
-     Copy
-     Edit
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 ▶️ Usage
 Run the assistant:
-bash
-Copy
-Edit
+``` bash
 python main.py
-
+```
 Speak clearly to interact with your voice assistant! 🎤
 
 📋 Requirements
